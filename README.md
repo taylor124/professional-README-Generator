@@ -1,6 +1,6 @@
 
   <h1>professional-README-Generator <h1>
-  [badge](https://img.shields.io/badge/license-MIT-blue)<br/>
+  ![badge](https://img.shields.io/badge/license-MIT-blue)<br/>
 
   ## <h2>Description</h2>
   To create a README.md using node.js and inquirer package
