@@ -1,6 +1,6 @@
 
   <h1>professional-README-Generator <h1>
-  ![badge](https://img.shields.io/badge/license-Apache License 2.0-blue)<br />
+  ![badge](https://img.shields.io/badge/license-Apache-License-2.0-blue)<br />
 
   ## <h2>Description</h2>
   To create a README.md using node.js and inquirer package
