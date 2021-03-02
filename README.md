@@ -15,10 +15,10 @@
   - [Questions](#questions)
 
   ## Installation
-  download the zip file from the repository, extract the content into a folder, open folder inside terminal, initiate with 'node index' then fill out the prompts
+    download the zip file from the repository, extract the content into a folder, open folder inside terminal, initiate with 'node index' then fill out the prompts
 
   ## Usage
-  the app is used for creating professional readme's
+   the app is used for creating professional readme's
 
   ## License
   ![badge](https://img.shields.io/badge/license-Apache License 2.0-darkyellow)
