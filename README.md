@@ -1,8 +1,5 @@
-# Professional README Generator Starter Code
 
-[How to create a Professional README](./readme-guide.md)
-
-<h1>professional-README-Generator <h1>
+  <h1>professional-README-Generator <h1>
   ![badge](https://img.shields.io/badge/lisence-Apache License 2.0-blue)<br />
 
   ## <h2>Description</h2>
@@ -24,7 +21,7 @@
   the app is used for creating professional readme's
 
   ## License
-  ![badge](https://img.shields.io/badge/lisence-Apache License 2.0-darkyellow)
+  ![badge](https://img.shields.io/badge/license-Apache License 2.0-darkyellow)
   <br />
   This application is covered by the Apache License 2.0 license.
 
@@ -33,4 +30,12 @@
 
   ## Tests
   none
+  
+  ## Github
+  https://github.com/taylor124?tab=repositories
+
+  ## <h2 >Questions</h2>
+  email me at vanscoytaylor@gmail.com<br />
+  <br />
+  Email me with any questions: vanscoytaylor@gmail.com<br /><br />
   
