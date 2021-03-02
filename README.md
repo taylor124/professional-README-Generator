@@ -1,10 +1,9 @@
-function generateReadme(response){
-  return `
-  <h1>${response.projectName} <h1>
-  ![badge](https://img.shields.io/badge/lisence-${response.projectLicense}-blue)<br />
+
+  <h1>professional-README-Generator <h1>
+  ![badge](https://img.shields.io/badge/license-Apache License 2.0-blue)<br />
 
   ## <h2>Description</h2>
-  ${response.projectDescription}
+  To create a README.md using node.js and inquirer package
 
   ## Table of Contents
   - [Description](#description)
@@ -16,38 +15,27 @@ function generateReadme(response){
   - [Questions](#questions)
 
   ## Installation
-  ${response.projectInstallation}
+  download the zip file from the repository, extract the content into a folder, open folder inside terminal, initiate with 'node index' then fill out the prompts
 
   ## Usage
-  ${response.projectUsage}
+  the app is used for creating professional readme's
 
   ## License
-  ![badge](https://img.shields.io/badge/license-${response.projectLicense}-darkyellow)
+  ![badge](https://img.shields.io/badge/license-Apache License 2.0-darkyellow)
   <br />
-  This application is covered by the ${response.projectLicense} license.
+  This application is covered by the Apache License 2.0 license.
 
   ## Contributing
-  ${response.projectContribution}
+  none
 
   ## Tests
-  ${response.projectTests}
+  none
   
   ## Github
-  https://github.com/${response.projectGithub}?tab=repositories
+  https://github.com/taylor124?tab=repositories
 
   ## <h2 >Questions</h2>
-  ${response.projectQuestions}<br />
+  email me at vanscoytaylor@gmail.com<br />
   <br />
-  Email me with any questions: ${response.projectEmail}<br /><br />
-  `
-}
-
-
-// TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
-
-`;
-}
-
-module.exports = generateReadme;
+  Email me with any questions: vanscoytaylor@gmail.com<br /><br />
+  
